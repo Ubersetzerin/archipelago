@@ -17,8 +17,8 @@ permalink: /
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[Cloudflare Workers](https://workers.cloudflare.com/) provides a serverless execution environment that allows you to
-create entirely new applications or augment existing ones without configuring or maintaining infrastructure.
+[Cloudflare Workers](https://workers.cloudflare.com/) забезпечує середовище виконання без сервера, що дає можливість
+створювати цілком нові додатки або змінювати існуючі без конфігурування чи управління інфраструктурою.
 
 ## Requirements
 
